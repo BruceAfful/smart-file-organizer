@@ -31,8 +31,8 @@ After: Files neatly sorted into folders
 ## Screenshots
 
 ### Before
-Screenshot 2026-05-05 033512.png
+![Before](Screenshot%202026-05-05%20033512.png)
 
 ### After
-Screenshot 2026-05-05 033409.png
+![After](Screenshot%202026-05-05%20033409.png)
 
