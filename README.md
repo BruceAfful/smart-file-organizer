@@ -27,3 +27,12 @@ This project is a Python script that automatically organizes files in a director
 
 Before: Mixed files in Downloads
 After: Files neatly sorted into folders
+
+## Screenshots
+
+### Before
+Screenshot 2026-05-05 033512.png
+
+### After
+Screenshot 2026-05-05 033409.png
+
